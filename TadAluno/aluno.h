@@ -1,7 +1,10 @@
+#include <string>
+
 class Aluno
 {
     private:
-        int matricula, idade, qtdNotas;
+        std::string matricula, nome; 
+        int idade, qtdNotas;
         double *notas;
 
     public:

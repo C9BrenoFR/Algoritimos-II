@@ -1,4 +1,5 @@
 #include "aluno.h"
+#include <string>
 #include <iostream>
 
 void Aluno::definirAluno()

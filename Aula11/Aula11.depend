@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1724717847 source:c:\users\breno\documents\repositórios\algoritimos-ii\aula11\prova.cpp
+	"Prova.h"
+
+1724717847 c:\users\breno\documents\repositórios\algoritimos-ii\aula11\prova.h
+	<iostream>
+	<string>
+
+1724720695 source:c:\users\breno\documents\repositórios\algoritimos-ii\aula11\aluno.cpp
+	"Aluno.h"
+
+1724721725 c:\users\breno\documents\repositórios\algoritimos-ii\aula11\aluno.h
+	<iostream>
+	<string>
+
+1724722064 source:c:\users\breno\documents\repositórios\algoritimos-ii\aula11\main.cpp
+	<iostream>
+	"Aluno.h"
+	"Prova.h"
+
